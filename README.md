@@ -12,6 +12,14 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
 - **How long**: This exercise takes less than one hour to complete.
 
+### Totally new to GitHub?
+
+You're in the right place :sparkles: This exercise is designed for complete beginners and gives you hands-on practice with the basics:
+
+- creating a branch
+- making commits
+- opening and merging a pull request
+
 In this exercise, you will:
 
 1. Create a branch
